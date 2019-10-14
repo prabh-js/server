@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "This is a great stream",
+      "id": 1
+    },
+    {
+      "title": "My second stream",
+      "description": "This is great!",
+      "id": 2
+    },
+    {
+      "title": "My third stream",
+      "description": "This is great!",
+      "userId": "113623992531610113547",
+      "id": 3
+    },
+    {
+      "title": "Programatic Stream",
+      "description": "Great Stream",
+      "userId": "113623992531610113547",
+      "id": 4
+    }
+  ]
+}
